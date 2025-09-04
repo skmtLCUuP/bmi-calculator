@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2+-green.svg)](https://github.com/TomSchimansky/CustomTkinter)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC0--1.0-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](tests/)
 
 身長と体重を入力してBMI（Body Mass Index）を計算し、健康状態をチェックするモダンなPythonアプリケーションです。
@@ -33,7 +33,7 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/skmtLCUuP/bmi-calculator.git
 cd bmi-calculator
 
 # 依存関係のインストール
@@ -206,7 +206,7 @@ mypy>=0.991           # 型チェッカー
 
 ## 📄 ライセンス
 
-このプロジェクトは [MIT License](LICENSE) の下で公開されています。
+このプロジェクトは [CC0-1.0 License](LICENSE) の下で公開されています。
 
 ## 🤝 コントリビュート
 
@@ -215,7 +215,7 @@ mypy>=0.991           # 型チェッカー
 ### 開発環境のセットアップ
 ```bash
 # 開発用クローン
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/skmtLCUuP/bmi-calculator.git
 cd bmi-calculator
 
 # 仮想環境の作成と有効化
@@ -238,8 +238,8 @@ python -m pytest tests/ -v
 
 ## 📞 サポート
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/bmi-calculator/issues)
-- **Discussion**: [GitHub Discussions](https://github.com/yourusername/bmi-calculator/discussions)
+- **Issues**: [GitHub Issues](https://github.com/skmtLCUuP/bmi-calculator/issues)
+- **Discussion**: [GitHub Discussions](https://github.com/skmtLCUuP/bmi-calculator/discussions)
 
 ## 🔮 今後の予定
 
